@@ -10,10 +10,10 @@ namespace WebApplicationDemo.Models
         [MaxLength(100)]
         public string ProductName { get; set; }
         [Required]
-        public double Price { get; set; }
+        public decimal Price { get; set; }
         public string Category { get; set; }
         [Range(1,5,ErrorMessage ="StarRating can be within the range 1-5")]
-        public double StarRating { get; set; }
+        public decimal StarRating { get; set; }
         [AllowNull]
         public string Description { get; set; }
         public string ProductCode { get; set; }

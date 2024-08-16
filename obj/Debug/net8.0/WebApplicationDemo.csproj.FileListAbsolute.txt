@@ -31,3 +31,5 @@ C:\Users\amey.pandit\Desktop\Training\DOTNETTRAINING\DAY8\WebApplicationDemo\obj
 C:\Users\amey.pandit\Desktop\Training\DOTNETTRAINING\DAY8\WebApplicationDemo\obj\Debug\net8.0\WebApplicationDemo.genruntimeconfig.cache
 C:\Users\amey.pandit\Desktop\Training\DOTNETTRAINING\DAY8\WebApplicationDemo\obj\Debug\net8.0\ref\WebApplicationDemo.dll
 C:\Users\amey.pandit\Desktop\Training\DOTNETTRAINING\DAY8\WebApplicationDemo\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\amey.pandit\Desktop\Training\DOTNETTRAINING\DAY8\WebApplicationDemo\bin\Debug\net8.0\Npgsql.dll
+C:\Users\amey.pandit\Desktop\Training\DOTNETTRAINING\DAY8\WebApplicationDemo\obj\Debug\net8.0\WebApplicationDemo.sourcelink.json
